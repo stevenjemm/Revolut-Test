@@ -1,0 +1,194 @@
+[
+    {
+        "shortCode" : "AUD",
+        "name"      : "Australian Dollar",
+        "imageName" : "aud"
+        
+    },
+    {
+        "shortCode" : "BGN",
+        "name"      : "Bulgarian Lev",
+        "imageName" : "bgn"
+        
+    },
+    {
+        "shortCode" : "BRL",
+        "name"      : "Brazilian Real",
+        "imageName" : "brl"
+        
+    },
+    {
+        "shortCode" : "CAD",
+        "name"      : "Canadian Dollar",
+        "imageName" : "cad"
+        
+    },
+    {
+        "shortCode" : "CHF",
+        "name"      : "Swiss Franc",
+        "imageName" : "chf"
+        
+    },
+    {
+        "shortCode" : "CNY",
+        "name"      : "Chinese Yuan",
+        "imageName" : "cny"
+        
+    },
+    {
+        "shortCode" : "CZK",
+        "name"      : "Czech Koruna",
+        "imageName" : "Czech"
+        
+    },
+    {
+        "shortCode" : "DKK",
+        "name"      : "Danish Krone",
+        "imageName" : "Denmark"
+        
+    },
+    {
+        "shortCode" : "EUR",
+        "name"      : "Euro",
+        "imageName" : "EU"
+        
+    },
+    {
+        "shortCode" : "GBP",
+        "name"      : "British Pound",
+        "imageName" : "UK"
+        
+    },
+    {
+        "shortCode" : "HKD",
+        "name"      : "Hong Kong Dollar",
+        "imageName" : "HK"
+        
+    },
+    {
+        "shortCode" : "HRK",
+        "name"      : "Croatian Kuna",
+        "imageName" : "hrk"
+        
+    },
+    {
+        "shortCode" : "HUF",
+        "name"      : "Hungarian Forint",
+        "imageName" : "Hungary"
+        
+    },
+    {
+        "shortCode" : "IDR",
+        "name"      : "Indonesian Rupiah",
+        "imageName" : "idr"
+        
+    },
+    {
+        "shortCode" : "ILS",
+        "name"      : "Israeli New Shekel",
+        "imageName" : "ils"
+        
+    },
+    {
+        "shortCode" : "INR",
+        "name"      : "Indian Rupee",
+        "imageName" : "inr"
+        
+    },
+    {
+        "shortCode" : "ISK",
+        "name"      : "Icelandic Króna",
+        "imageName" : "isk",
+        
+    },
+    {
+        "shortCode" : "JPY",
+        "name"      : "Japanese Yen",
+        "imageName" : "jpy",
+        
+    },
+    {
+        "shortCode" : "KRW",
+        "name"      : "South Korean won",
+        "imageName" : "krw",
+        
+    },
+    {
+        "shortCode" : "MXN",
+        "name"      : "Mexican Peso",
+        "imageName" : "mxn",
+        
+    },
+    {
+        "shortCode" : "MYR",
+        "name"      : "Malaysian Ringgit",
+        "imageName" : "myr",
+        
+    },
+    {
+        "shortCode" : "NOK",
+        "name"      : "Norwegian Krone",
+        "imageName" : "Norway",
+        
+    },
+    {
+        "shortCode" : "NZD",
+        "name"      : "New Zealand Dollar",
+        "imageName" : "nzd",
+        
+    },
+    {
+        "shortCode" : "PHP",
+        "name"      : "Philippine peso",
+        "imageName" : "php"
+        
+    },
+    {
+        "shortCode" : "PLN",
+        "name"      : "Poland złoty",
+        "imageName" : "Poland"
+        
+    },
+    {
+        "shortCode" : "RON",
+        "name"      : "Romanian Leu",
+        "imageName" : "ron"
+        
+    },
+    {
+        "shortCode" : "RUB",
+        "name"      : "Russian Ruble",
+        "imageName" : "rub"
+        
+    },
+    {
+        "shortCode" : "SEK",
+        "name"      : "Swedish Krona",
+        "imageName" : "Sweden"
+        
+    },
+    {
+        "shortCode" : "SGD",
+        "name"      : "Singapore Dollar",
+        "imageName" : "Singapore"
+        
+    },
+    {
+        "shortCode" : "THB",
+        "name"      : "Thai Baht",
+        "imageName" : "thb"
+        
+    },
+    {
+        "shortCode" : "USD",
+        "name"      : "Unites States Dollar",
+        "imageName" : "US"
+        
+    },
+    {
+        "shortCode" : "ZAR",
+        "name"      : "South African Rand",
+        "imageName" : "zar"
+        
+    }
+]
